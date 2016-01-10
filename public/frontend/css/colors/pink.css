@@ -31,8 +31,11 @@ i.large:hover{
 	color: #fff;
 }
 
-.very-big-black {
-	color: #000;
+.very-big-black{
+	font-size:74px;
+	letter-spacing:-5px;
+	font-weight:bold;
+	color:#22225a;
 }
 
 #filters a:hover,
