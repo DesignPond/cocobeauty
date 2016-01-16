@@ -75,7 +75,7 @@
                              data-speed="300"
                              data-start="800"
                              data-easing="easeOutExpo">
-                           Service professionnel de
+                           Services professionnel de
                         </div>
 
                         <div class="caption sfb very-big-black"
